@@ -1,12 +1,18 @@
 body {
+	color: #2C3E50;
+	background-color: #ECF0F1;
 	font-family: Helvetica, Arial, sans-serif;
-	background-color: lime;
 }
 
-.container {
-  background-color: white;
-  border: 3px solid orange;
-  padding: 1em;
-  width: 600px;
-  margin: auto;
+h1 {
+	color: #2980B9;
+}
+
+a {
+	color: #E74C3C;
+}
+
+a:hover {
+	color: #C0392B;
+	background-color: #BDC3C7;
 }
